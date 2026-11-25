@@ -48,7 +48,7 @@ controls weld-zone phases and joint properties.
 ```
 
 ## Contact
-Muhammad Zohaib Majeed · <your email> · [LinkedIn](<your LinkedIn URL>)
+Muhammad Zohaib Majeed · <zohaibmajeed82@gmail.com>
 
 ---
-© 2026 Hafiz Ahmad Bilal, Muhammad Zohaib Majeed. All rights reserved.
+©Muhammad Zohaib Majeed. All rights reserved.
