@@ -8,8 +8,8 @@
 ---
 
 ## 📄 Documents
-- **[Full Thesis (PDF)](thesis/thesis.pdf)**
-- **[Presentation Slides (PDF)](slides/slides.pdf)**
+- **[Full Thesis (PDF)](Thesis_fyp_RFW_2022_01,22mm20_finalcopy.pdf)**
+- **[Presentation Slides (PDF)]()**
 
 ## Overview
 This work studies how rotational speed affects the microstructure and mechanical behaviour of
